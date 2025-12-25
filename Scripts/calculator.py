@@ -1,5 +1,5 @@
 import math
-
+print("=====================================================")
 print("CALCULATOR MANAGER")
  
 
@@ -44,8 +44,8 @@ match choice:
 
     case 5:
         print("Modulus:",a%b) 
+print("=====================================================")
 
-#calculator done
     
 
             
